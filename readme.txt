@@ -1,0 +1,1 @@
+Open generate_nft.py to generate NFTs !
